@@ -227,7 +227,7 @@ Akhir Pesan Error
 
 //router.use(favicon(__path + "/views/favicon.ico"));
 
-const listkey = ["apirey", "christianid", "ditofficial"];
+const listkey = ["IzumiBot", "christianid", "nctech",  "izumimultidevice"];
 
 router.post("/apikey", async (req, res, next) => {
   const key = req.query.key;
